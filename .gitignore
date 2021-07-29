@@ -1,0 +1,7 @@
+.venv
+.vscode
+bot_config.txt
+update.bat
+set-config.bat
+venv
+workspace.code-workspace
