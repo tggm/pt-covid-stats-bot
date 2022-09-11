@@ -5,3 +5,6 @@ update.bat
 set-config.bat
 venv
 workspace.code-workspace
+.idea
+__pycache__
+
